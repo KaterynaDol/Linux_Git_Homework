@@ -1,0 +1,242 @@
+    1  df-h
+    2  /Users/apple/Desktop/социаламт/mongosh-2.5.6-darwin-arm64/bin/mongosh ; exit;
+    3  /Users/apple/Desktop/социаламт/mongosh-2.5.6-darwin-arm64/bin/mongosh ; exit;
+    4  /Users/apple/Desktop/социаламт/mongosh-2.5.6-darwin-arm64/bin/mongosh_crypt_v1.dylib ; exit;
+    5  git --version
+    6  uptime
+    7  ec2-user@ip-10-0-42-153 010825-ptm
+    8  cd ec2-user@ip-10-0-42-153 010825-ptm
+    9  scp ec2-user@ip-10-0-42-153 010825-ptm
+   10  scp ec2-user@ip-10-0-42-153 010825-ptm
+   11  scp ec2-user@linux.itcareerhub.de
+   12  cd
+   13  ssh-keygen
+   14  cat .ssh/id_rsa.pub
+   15  ssh ec2-user@linux.itcareerhub.de
+   16  ssh ec2-user@linux.itcareerhub.de
+   17  ssh ec2-user@linux.itcareerhub.de
+   18  touch 1.txt
+   19  scp ec2-user@linux.itcareerhub.de:/opt/010825-ptm/kateryna
+   20  pwd
+   21  ssh ec2-user@linux.itcareerhub.de
+   22  exit
+   23  ssh ec2-user@linux.itcareerhub.de
+   24  cat .ssh/id_ed2519.pub
+   25  cat .ssh/id_rsa.pub
+   26  ssh ec2-user@linux.itcareerhub.de
+   27  ssh ec2-user@linux.itcareerhub.de
+   28  ssh ec2-user@linux.itcareerhub.de
+   29  ec2-user@linux.itcareerhub.de
+   30  ssh ec2-user@linux.itcareerhub.de
+   31  ssh ec2-user@linux.itcareerhub.de
+   32  ssh ec2-user@linux.itcareerhub.de
+   33  ssh ec2-user@linux.itcareerhub.de
+   34  whoami
+   35  ipconfig getifaddr en0
+   36  ssh ec2-user@linux.itcareerhub.de
+   37  whereis locate
+   38  whereis tree
+   39  locate "*.txt"
+   40  ssh ec2-user@linux.itcareerhub.de
+   41  ssh ec2-user@linux.itcareerhub.de
+   42  git status
+   43  git rev-parse--show-toplevel
+   44  git init
+   45  date > 1.txt ; date > 2.txt
+   46  git status
+   47  git add .
+   48  git status
+   49  git rm--cached 1.txt 
+   50  git rm --cached 1.txt 
+   51  git status
+   52  git branch -M main
+   53  git branch 
+   54  git remote add origin git@github.com:KaterynaDol/InterestingRepo.git 
+   55  git remote add origin -v
+   56  git commit -m "2.txt" 
+   57  git log
+   58  git push -u origin main
+   59  git branch -M main
+   60  git fetch all
+   61  git remote  -v
+   62  ls -la
+   63  git status
+   64  git merge origin/main
+   65  git rebase origin/main
+   66  ls -la
+   67  git fetch --all
+   68  git rebase origin/main
+   69  git push -u origin main
+   70  git log
+   71  git branch
+   72  git checkout -b gitignore
+   73  git log
+   74  vi .gitignore
+   75  git status
+   76  git add .
+   77  git commit -m "add gitignore"
+   78  touch smth.bmp
+   79  git status
+   80  clear
+   81  git branch
+   82  git log
+   83  git switch main
+   84  git checkout main
+   85  git --version
+   86  git branch
+   87  git log
+   88  git merge gitignore
+   89  ls -la
+   90  git status
+   91  git push
+   92  git branch -d gitignore
+   93  git log --oneline
+   94  git log --graph
+   95  git log --oneline --graph
+   96  git log --oneline --graph
+   97  git checkout 9bae5dc
+   98  git log
+   99  git status
+  100  ls -la
+  101  git checkout main
+  102  vi .gitignore
+  103  git add .
+  104  git commit -m "Changed .gitignore"
+  105  git push
+  106  mkdir /desktop/HUGO
+  107  ssh ec2-user@linux.itcareerhub.de
+  108  git init
+  109  git init
+  110  git add screenshot.png
+  111  git commit -m "Added photo"
+  112  git branch -M main
+  113  git remote add origin git@github.com:KaterynaDol/git_intro.git
+  114  git push -u origin main
+  115  echo "# test" >> README.md
+  116  git status
+  117  git init
+  118  git .
+  119  git add .
+  120  git status
+  121  git commit -m "first commit"
+  122  git branch -M main
+  123  git status
+  124  git log --oneline
+  125  git remote add origin git@github.com:KaterynaDol/test.git
+  126  git remote -v
+  127  git push -u origin main
+  128  echo "# test-repo" >> README.md
+  129  ls -la
+  130  git init
+  131  ls -la
+  132  tree .git
+  133  ls -la .git
+  134  md5sum README.md
+  135  md5sum README.md
+  136  md5sum README.md 
+  137  md5sum --help
+  138  md5 -r README.md
+  139  git status
+  140  git add .
+  141  git status
+  142  git commit -m "first commit"
+  143  git log
+  144  git log --oneline
+  145  git branch
+  146  git branch -M main
+  147  git branch
+  148  git remote add origin git@github.com:KaterynaDol/test-repo.git
+  149  git remote -v
+  150  git push -u origin main
+  151  vi REEDME.md
+  152  git status
+  153  touch passwords.txt
+  154  git status
+  155  git add README.md
+  156  git status
+  157  git add README.md
+  158  git status
+  159  git commit -m "modified README.md"
+  160  git log
+  161  git push
+  162  git status
+  163  git commit -m "hhh"
+  164  git push
+  165  vi passwords.txt 
+  166  git status
+  167  cat passwords.txt 
+  168  git status
+  169  git status
+  170  git init
+  171  git status
+  172  cd ..
+  173  git clone git@github.com:KaterynaDol/hugo-coder.git
+  174  ls -la
+  175  cd hugo-coder/
+  176  ls -la
+  177  git log
+  178  git log --oneline
+  179  git log --oneline --graph
+  180  cd ..
+  181  git clone git@github.com:KaterynaDol/testtt.git
+  182  cd 
+  183  cd testtt
+  184  cd /Desktop/testtt
+  185  cd/Users/apple/Desktop/testtt 
+  186  whereis
+  187  cd /Users/apple/Desktop/testtt 
+  188  ls -la
+  189  git remote -v
+  190  git remote add upstream https://github.com/iohichu/testtt.git
+  191  git remote -v
+  192  git checkout -b test
+  193  touch kateryna.txt
+  194  git add .
+  195  git commit -m "Added kateryna.txt"
+  196  git checkout main
+  197  git merge test
+  198  git push
+  199  git fetch upstream
+  200  git merge upstream/main
+  201  git log
+  202  mkdir git-branch
+  203  cd git-branch/
+  204  git remote add origin git@github.com:KaterynaDol/git-branch.git
+  205  git init
+  206  git remote add origin git@github.com:KaterynaDol/git-branch.git
+  207  git checkout -b gitignore
+  208  curl -o .gitignore https://github.com/aliaskov/bashscripts/blob/master/.gitignore
+  209  ls -la
+  210  git add .gitignore
+  211  git commit -m "Added .gitignore file"
+  212  git push -u origin gitignore
+  213  git log
+  214  history
+  215  git log --graph
+  216  python -m pydoc modules
+  217  pwd
+  218  cd ~/Desktop
+  219  git clone git@github.com:KaterynaDol/Homework_15_merge-and-rebase.git
+  220  cd
+  221  cd Homework_15_merge-and-rebase
+  222  cd /Homework_15_merge-and-rebase
+  223  ~/Desktop/Homework_15_merge-and-rebase
+  224  pwd
+  225  cd ~/Desktop/Homework_15_merge-and-rebase/
+  226  git checkout -b feature
+  227  vi README.md 
+  228  vi .gitignore
+  229  git add README.md
+  230  git commit -m "Added file README.md"
+  231  git add .gitignore 
+  232  git commit -m "Added file .gitignore"
+  233  git log
+  234  git push -u origin feature
+  235  git commit --amend "Changes in feature ammend"
+  236  git commit --amend -m "Changes in feature ammend"
+  237  git push origin feature --force
+  238  git log
+  239  git checkout main
+  240  git merge feature
+  241  git push origin main
+  242  history > history.txt
