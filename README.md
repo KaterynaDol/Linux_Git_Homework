@@ -106,7 +106,7 @@ Linux_Git_Practice/
 
 **School:** [IT Career Hub](https://itcareerhub.de/)  
 
-**Student:** Kateryna Dol  
+**Student:** Kateryna Dolinina  
 
 **Location:** Frankfurt, Germany  
 
